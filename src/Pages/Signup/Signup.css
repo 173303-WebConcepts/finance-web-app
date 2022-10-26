@@ -1,8 +1,3 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-
 .gradient{
     /* ff 3.6+ */
     background:-moz-linear-gradient(90deg, rgba(64, 52, 122, 1) 42%, rgba(3, 36, 103, 1) 100%); 

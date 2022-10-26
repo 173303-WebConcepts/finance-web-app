@@ -1,3 +1,4 @@
+
 .gradient{
   /* ff 3.6+ */
   background:-moz-linear-gradient(90deg, rgba(64, 52, 122, 1) 42%, rgba(3, 36, 103, 1) 100%); 
@@ -16,8 +17,4 @@
 
   /* global 94%+ browsers support */
   background:linear-gradient(90deg, rgba(64, 52, 122, 1) 42%, rgba(3, 36, 103, 1) 100%);
-}
-
-.hero{
-    border-color: linear-gradient(#f6b73c, #4d9f0c) 30;
 }

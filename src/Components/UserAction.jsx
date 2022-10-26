@@ -3,13 +3,12 @@ import { SpeedDial, SpeedDialAction, SpeedDialIcon } from "@mui/material";
 import { CgProfile } from "react-icons/cg";
 import { FiSettings } from 'react-icons/fi'
 import { BiLogOutCircle } from 'react-icons/bi'
-import boy from "../assets/boy.jfif";
 import boy1 from "../assets/boy.jpg";
 
 const UserAction = () => {
   return (
     <SpeedDial
-      className="text-gray-900 "
+      className="text-gray-900"
       ariaLabel="SpeedDial basic example"
       direction="down"
       sx={{ position: "absolute", top: 15, right: 16 }}

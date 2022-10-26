@@ -7,7 +7,10 @@ module.exports = {
       colors: {
         // Configure your color palette here
         "custom-main": "#544a89",
-        "custom-secondary": "#FFB014",
+        "custom-secondary": "#F7931A",
+        "custom-grey": "#dbdbdb",
+        "custom-floppy": "#7dfc7b",
+        "custom-footer": '#383838'
         // "custom-yellow": "#F9D533",
         // "custom-grey": "#F5F5F5",
         // "custom-grey-dark": "#707070",
